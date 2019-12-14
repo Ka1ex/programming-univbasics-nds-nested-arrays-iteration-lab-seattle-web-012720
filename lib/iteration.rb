@@ -30,6 +30,7 @@ def find_greater_pair(src)
      else 
        new_array_2 << a
      end
+     row_index += 1
   end
   new_array_2
 end
